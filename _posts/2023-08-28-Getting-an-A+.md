@@ -1,7 +1,9 @@
+---
 layout: post
 title: "Getting an A+"
-date: 2023-08-28 02:11:00 -0000
+date: 2023-08-28 02:11:00 +4000
 categories: IT Certifications Blogs Anki
+---
 
 Talking to non-departmental IT support professionals in Sharjah, the A+ isn't the clincher for all their duties, but it is a foundation if nothing else. They recommended I get more comfortable with Windows and Windows server.
 
