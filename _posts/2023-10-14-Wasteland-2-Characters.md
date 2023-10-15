@@ -10,31 +10,35 @@ Wasteland 2 offered the player to create characters and append a backstory to th
 The idea with her was that she grew up watching a lot of Seinfeld, though I mixed in stuff from Conan O'Brien since I haven't watched Seinfeld.
 
 She still asked what the deal was with things since I remember that from an episode of 30 Rock.
+
+
 <details>
 <summary>
 	Sara Seinfeld-Wang VI
 </summary>
-Dossier:
-<p>
-A joke at birth, Sara Seinfeld-Wang VI traveled the known wastes in search of a crowd that would laugh.
-</p>
-<p>
-Though she never took herself seriously, her crew did, and they were as loyal as they came and came a test came when a raider claimed her, her Jester Queen.
-</p>
-<p>
-After escaping the simp kerfuffle through dumb luck, the tragedy led to a new Sara. And thus, a new number at the end of her name.
-</p>
-<p>
-After realizing some accents pronounce six as sex, she decided to stop her risky business and start her own gang. 
-</p>
-<p>
-After realizing it would take more than asking an assistant, she decided to join one - preferably a sane one - instead. 
-</p>
-<p>
-The goal was to take over the top spot until the old one wanted it back, share it for a confusing seven months and three weeks, and then move to a local chapter instead. The Desert Rangers seemed a ripe target for her dastardly scheme.
-</p>
+	Dossier:
+	<p>
+	A joke at birth, Sara Seinfeld-Wang VI traveled the known wastes in search of a crowd that would laugh.
+	</p>
+	<p>
+	Though she never took herself seriously, her crew did, and they were as loyal as they came and came a test came when a raider claimed her, her Jester Queen.
+	</p>
+	<p>
+	After escaping the simp kerfuffle through dumb luck, the tragedy led to a new Sara. And thus, a new number at the end of her name.
+	</p>
+	<p>
+	After realizing some accents pronounce six as sex, she decided to stop her risky business and start her own gang. 
+	</p>
+	<p>
+	After realizing it would take more than asking an assistant, she decided to join one - preferably a sane one - instead. 
+	</p>
+	<p>
+	The goal was to take over the top spot until the old one wanted it back, share it for a confusing seven months and three weeks, and then move to a local chapter instead. The Desert Rangers seemed a ripe target for her dastardly scheme.
+	</p>
 </details>
-
+<br>
+<hr>
+<br>
 
 The idea of this next one was to incorporate a mysterious someone seeking revenge, and someone who had no time for games.
 
@@ -44,23 +48,26 @@ In reality, I followed the concept of history becoming legend becoming myth and 
 <summary>
 	Ahmad Ali Asgar ibn Abi Altair al-Shabbaz Jr.
 </summary>
-<p>
-Ahmed Ali Asgar was the youngest of a family of 2 and 2 that hailed from what is east of east. Allegedly, a fierce tribe descended from legendary warriors, such as "Muhammad Ali", "Malik al-Shabbaz", "Thomas Jefferson", and "Altair ibn La'Ahad".
-</p>
-<p>
-The mother had led the father on a quest out west for a pilgrimage but settled down after a difficult pregnancy in the AZ. They lived a meager, albeit happy existence.
-</p>
-<p>
-This was as much as he remembers since they did not survive a raid turned explosive. He was made retainer to their leader, who treated and trained him harshly - but killed any goons that tried the same.
-</p>
-<p>
-Apparently, a raid turned bad allowed the boy-turned man to escape - though not before he strangled his master at camp. Guns are too impersonal for his hobby, it seems. And his relationship with his Lord is rocky at best, with his mouth writing cheques in the day, what he'd beg not cash come night.
-</p>
-<p>
-He had joined the Desert Rangers for leads, but the backup believes him to be warming up. "Seems" being the keyword.
-</p>
+	<p>
+	Ahmed Ali Asgar was the youngest of a family of 2 and 2 that hailed from what is east of east. Allegedly, a fierce tribe descended from legendary warriors, such as "Muhammad Ali", "Malik al-Shabbaz", "Thomas Jefferson", and "Altair ibn La'Ahad".
+	</p>
+	<p>
+	The mother had led the father on a quest out west for a pilgrimage but settled down after a difficult pregnancy in the AZ. They lived a meager, albeit happy existence.
+	</p>
+	<p>
+	This was as much as he remembers since they did not survive a raid turned explosive. He was made retainer to their leader, who treated and trained him harshly - but killed any goons that tried the same.
+	</p>
+	<p>
+	Apparently, a raid turned bad allowed the boy-turned man to escape - though not before he strangled his master at camp. Guns are too impersonal for his hobby, it seems. And his relationship with his Lord is rocky at best, with his mouth writing cheques in the day, what he'd beg not cash come night.
+	</p>
+	<p>
+	He had joined the Desert Rangers for leads, but the backup believes him to be warming up. "Seems" being the keyword.
+	</p>
 
 </details>
+<br>
+<hr>
+<br>
 
 The idea with the next one was originally a caveman thawed out recently. But, then I thought about him being from the future too.
 

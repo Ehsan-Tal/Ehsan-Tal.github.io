@@ -8,6 +8,7 @@ categories: stories
 <details>
 <summary> Open up to read before the critique after it
 </summary>
+<br>
     <p>
     The stars were all Ali could focus on during the blackout. How they were so set against the almost pitch black surface, they looked like holes or openings from a brighter world. He imagined them twinkling and beaming as the nursery rhyme goes because he knew what his mind would end up doing as soon as he gave it a chance.
     </p>
@@ -36,7 +37,9 @@ categories: stories
     Though forgetting he would have to do this all over again soon enough, he felt such relief, and then went back clicking keys on his computer as if none of it ever happened.
     </p>
 </details>
-
+<br>
+<hr>
+<br>
 This story was something I wrote a long time ago. I think it has some potential, but I was neither disabused of big emotions coming from big words nor that the quantity of words does not equal wit.
 
 Plus, it could have benefitted from focus, a stark difference in writing style or paragraph content - and fewer mentions of fear directly.
