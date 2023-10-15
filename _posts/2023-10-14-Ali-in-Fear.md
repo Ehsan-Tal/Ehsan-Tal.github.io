@@ -5,8 +5,15 @@ date: 2023-10-14 02:11:00 +4000
 categories: stories
 ---
 
+This story was something I wrote a long time ago. I think it has some potential, but I was neither disabused of big emotions coming from big words nor that the quantity of words does not equal wit.
+
+Plus, it could have benefitted from focus, a stark difference in writing style or paragraph content - and fewer mentions of fear directly.
+
+I could perhaps have experimented with slow descriptions of what was seen. A sudden transition from regular beds and cupboards to the abyss staring back would have been an achievement to test my writing capabilities.
+<br>
+<br>
 <details>
-<summary> Open up to read before the critique after it
+<summary> The story
 </summary>
 <br>
     <p>
@@ -37,14 +44,8 @@ categories: stories
     Though forgetting he would have to do this all over again soon enough, he felt such relief, and then went back clicking keys on his computer as if none of it ever happened.
     </p>
 </details>
-<br>
-<hr>
-<br>
-This story was something I wrote a long time ago. I think it has some potential, but I was neither disabused of big emotions coming from big words nor that the quantity of words does not equal wit.
 
-Plus, it could have benefitted from focus, a stark difference in writing style or paragraph content - and fewer mentions of fear directly.
 
-I could perhaps have experimented with slow descriptions of what was seen. A sudden transition from regular beds and cupboards to the abyss staring back would have been an achievement to test my writing capabilities.
 
 
 
